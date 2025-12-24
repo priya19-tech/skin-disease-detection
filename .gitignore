@@ -1,0 +1,16 @@
+ # macOS
+.DS_Store
+
+# Virtual Environment
+venv/
+__pycache__/
+
+# Python
+*.pyc
+
+# IDE
+.vscode/
+
+# Optional: Large model files (uncomment if needed)
+# *.keras
+
